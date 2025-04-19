@@ -1,0 +1,14 @@
+.custom-carousel {
+  height: 400px;
+  overflow: hidden;
+}
+
+.custom-carousel .carousel-item {
+  height: 100%;
+}
+
+.custom-carousel .carousel-item img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
