@@ -11,6 +11,7 @@ Typed Out Loud is a responsive, multi-section landing page built with HTML, CSS 
 - 📌 Smooth scroll navigation
 
 ## 📸 Preview
+https://github.com/user-attachments/assets/9c89cb15-98ab-40a3-adb8-1f19948908a0
 
 
 ## 📁 Folder Structure
